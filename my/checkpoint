@@ -1,0 +1,2 @@
+model_checkpoint_path: "mnist_ann_model.hdf5"
+all_model_checkpoint_paths: "mnist_ann_model.hdf5"
